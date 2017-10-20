@@ -1,3 +1,3 @@
-# blogger
+# README
 
-A basic blogging app built with Ruby on Rails.
+Basic blogging app built using Ruby on Rails.
